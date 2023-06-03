@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [vishuverma.site](vishuverma.site)
+- 👨‍💻 All of my projects are available at [vishuverma.site](www.vishuverma.site)
 
 - 📫 How to reach me **vishuverma01@gmail.com**
 
