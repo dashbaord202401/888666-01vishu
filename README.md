@@ -95,6 +95,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=01vishu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=01vishu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
 
 <br/>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01vishu&" alt="01vishu" /></p>
