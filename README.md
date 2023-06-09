@@ -2,7 +2,7 @@
 ### <div align="center">I'm Vishu, a full-time full-stack freelance developer 👨‍💻 available remotely 🚀</div>  
   
 
-- 🔭 I’m currently working on [iMessenger](https://github.com/01vishu/iMessenger)  
+- 🔭 I’m currently working on [covive-chess](https://github.com/01vishu/covive-chess)  
   
 
 - 🌱 I’m currently learning DevOps  
